@@ -1,0 +1,89 @@
+newmtl Glass Thin_ed5073ae-9811-4f5f-822b-327cf104a31b
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Dark Blue To Blue_1095e43f-0173-49dc-b25b-86cb27ce3116
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd .\c616a848-bfea-40cf-b8bc-7b0aa1b6c3d2.jpg
+newmtl Glass Thin 1_c583f06e-f09a-4d44-b9b5-4dc74b277e5b
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 2_4b7e4039-192d-4745-8289-73a06ff6e542
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 3_45485c62-cc67-4c43-a7d1-0956b73301d6
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 4_0b17f9a3-0c0b-47ae-b968-f534383ad543
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 5_4410156c-64fe-4c4b-9af0-fa8f5f6c3e89
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 6_ce68105d-46e8-4ee4-be0b-9692d9111a76
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 7_6bdf119b-8f09-4a5e-be51-a52baab8fc2e
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 8_dd270523-26aa-400c-ad46-3d604103935a
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 9_e83080ce-4e3c-425e-be02-92109f62615f
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 10_17c4c91b-7853-44fe-ae8e-7658d6318573
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 11_02320949-9c86-4e0f-a1e5-bdb0ea751ce6
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Glass Thin 12_8bff7a9d-ed47-4b40-93ea-c1e3c8ed7362
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Dark Blue To Blue 1_a7b9dc2a-f36b-49a1-984e-0a0a32abf87a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd .\c616a848-bfea-40cf-b8bc-7b0aa1b6c3d2.jpg
+newmtl Material 3_c6d05ed3-6023-4b83-bfc3-6d472d72a968
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Material_6dfdbc39-5c85-4079-96a5-7579bc524904
+Kd 0.039 0.063 0.290
+d 1.000
+newmtl Material 1_06ada3d1-59bd-48b1-be97-98fee220d0a0
+Kd 0.031 0.047 0.200
+d 1.000
+newmtl Line36084 material 1_da550043-610b-4e0a-ab18-590371a86cd3_d9fa130d-c475-49f8-9c39-0e76e6d4b0ff
+Kd 0.020 0.035 0.212
+d 1.000
+newmtl Material 2_40b091b9-2651-42c7-8e06-875620275334
+Kd 0.039 0.055 0.251
+d 1.000
+newmtl Material 4_304ff240-0e7f-40bb-8235-3ecf10fa51d5
+Kd 0.024 0.039 0.188
+d 1.000
+newmtl Material 5_6a60be9e-02cf-4d9a-9ece-ae765db60758
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 6_160ddc83-09ef-4de8-84bf-29649cd4155b
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Material 7_28644b9f-5707-4b47-aa60-3279242b7673
+Kd 0.039 0.063 0.290
+d 1.000
+newmtl Material 8_014218fa-c0ee-406a-8123-1592ec715c4c
+Kd 0.031 0.047 0.200
+d 1.000
+newmtl Line36084 material 1_da550043-610b-4e0a-ab18-590371a86cd3 1_e7b58045-b91b-4422-a7de-e0d68e92bea4
+Kd 0.020 0.035 0.212
+d 1.000
+newmtl Material 9_0b8bc72f-44f5-44ac-954c-44732001df2d
+Kd 0.039 0.055 0.251
+d 1.000
+newmtl Material 10_709a1fad-054f-47b0-ad7c-2185b0fea040
+Kd 0.024 0.039 0.188
+d 1.000
+newmtl Material 11_4e222104-8d2c-488d-92b9-e2a68a764fa0
+Kd 1.000 1.000 1.000
+d 1.000
